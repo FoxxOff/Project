@@ -1,6 +1,7 @@
-#include <sdlib>
+#include <iostream>
+using namespace std;
 
-int a
-
-cin >> a >> endl
-cout << a
+int main()
+{
+cout << "Hello, world!";
+}
